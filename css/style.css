@@ -8144,7 +8144,7 @@
     -webkit-transition: .3s all ease;
     -o-transition: .3s all ease;
     transition: .3s all ease;
-    color: #fc7fb2; }
+    color: #0d6efd; }
     a:hover, a:focus {
       text-decoration: none !important;
       outline: none !important;
@@ -8226,7 +8226,7 @@
           color: #fff; }
       #sidebar ul li.active > a {
         background: transparent;
-        color: #fc7fb2; }
+        color: #0d6efd; }
     @media (max-width: 767.98px) {
       #sidebar {
         min-width: 100%;
@@ -8268,7 +8268,7 @@
             -webkit-transform: rotate(45deg);
             -ms-transform: rotate(45deg);
             transform: rotate(45deg);
-            background: #fc7fb2;
+            background: #0d6efd;
             border-radius: 10px; }
           #sidebar .custom-menu .btn.btn-primary:hover, #sidebar .custom-menu .btn.btn-primary:focus {
             background: transparent !important;
@@ -8295,11 +8295,11 @@
     transition: all 0.3s; }
   
   .btn.btn-primary {
-    background: #fc7fb2;
-    border-color: #fc7fb2; }
+    background: #0d6efd;
+    border-color: #0d6efd; }
     .btn.btn-primary:hover, .btn.btn-primary:focus {
-      background: #fc7fb2 !important;
-      border-color: #fc7fb2 !important; }
+      background: #0d6efd !important;
+      border-color: #0d6efd !important; }
   
   .footer p {
     color: rgba(255, 255, 255, 0.5); }
@@ -8315,8 +8315,8 @@
     border: 1px solid #ccc;
     font-size: 11px; }
     .tagcloud a:hover {
-      border-color: #fc7fb2;
-      background: #fc7fb2;
+      border-color: #0d6efd;
+      background: #0d6efd;
       color: #fff; }
   
   .form-control {
